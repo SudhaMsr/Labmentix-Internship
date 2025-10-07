@@ -1,2 +1,1 @@
-
 # Labmentix-Internship
